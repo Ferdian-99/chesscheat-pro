@@ -1,9 +1,3 @@
-
-
-https://github.com/user-attachments/assets/3314dd94-f6a8-4a76-9579-f1b8bb2d2845
-
-
-
 # ChessCheat Pro
 
 ChessCheat Pro is a small browser extension for experimenting with live chess-board reading, Stockfish analysis, and a floating in-page analysis panel on Chess.com.
@@ -12,11 +6,9 @@ I built this as a learning project. It is not made to support cheating, fair-pla
 
 ## Showcase
 
-Watch the showcase video here:
+https://github.com/user-attachments/assets/3314dd94-f6a8-4a76-9579-f1b8bb2d2845
 
-<video src="https://raw.githubusercontent.com/Ferdian-99/chesscheat-pro/main/assets/showcase-video.mp4" controls width="100%"></video>
-
-[Download or view the showcase video](assets/showcase-video.mp4)
+If the preview does not load, the local MP4 is here: [assets/showcase-video.mp4](assets/showcase-video.mp4)
 
 ## Features
 
@@ -68,7 +60,7 @@ Watch the showcase video here:
 
 Temporary Firefox add-ons are removed when the browser closes, so you may need to load it again next time.
 
-## How To Use
+## How to Use
 
 1. Open a Chess.com board.
 
@@ -116,4 +108,3 @@ I do not support cheating, fair-play violations, or using this tool in rated or 
 ## License
 
 MIT License. See the project files for details.
-
