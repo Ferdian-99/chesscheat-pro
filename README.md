@@ -1,3 +1,9 @@
+
+
+https://github.com/user-attachments/assets/3314dd94-f6a8-4a76-9579-f1b8bb2d2845
+
+
+
 # ChessCheat Pro
 
 ChessCheat Pro is a small browser extension for experimenting with live chess-board reading, Stockfish analysis, and a floating in-page analysis panel on Chess.com.
