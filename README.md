@@ -6,13 +6,9 @@ I built this as a learning project. It is not made to support cheating, fair-pla
 
 ## Showcase
 
-Video showcase coming soon.
+Watch the showcase video here:
 
-When the demo video is ready, place it here:
-
-```md
-[Watch the showcase](YOUR_VIDEO_LINK_HERE)
-```
+[Download or view the showcase video](assets/showcase-video.mp4)
 
 ## Features
 
@@ -112,3 +108,4 @@ I do not support cheating, fair-play violations, or using this tool in rated or 
 ## License
 
 MIT License. See the project files for details.
+
