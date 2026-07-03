@@ -8,6 +8,8 @@ I built this as a learning project. It is not made to support cheating, fair-pla
 
 Watch the showcase video here:
 
+<video src="https://raw.githubusercontent.com/Ferdian-99/chesscheat-pro/main/assets/showcase-video.mp4" controls width="100%"></video>
+
 [Download or view the showcase video](assets/showcase-video.mp4)
 
 ## Features
